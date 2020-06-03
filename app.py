@@ -12,7 +12,7 @@ image = Image.open('logo.jpg')
 st.sidebar.image(image, caption='',use_column_width=True)
 
 documento=st.sidebar.selectbox("¿Qué tipo de documento tienes?",("DNI", "CARNET EXTRANJERIA"))
-st.sidebar.text_input(label='DNI',value='',key=None, type='default')
+st.sidebar.text_input(label='DNI',value='')
 
 firebase=firebase.FirebaseApplication('https://diccionario-analitika.firebaseio.com/', None)
 
