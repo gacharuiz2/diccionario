@@ -49,7 +49,7 @@ dijeron,DECIR,,4426,0.32%,1,Neutra,0,1,0,0,no critico,0,6,0,0,0,0,0,0
 dias,DIA,,4416,0.32%,1,,,,,,,,,,,,,,
 correo,CORREO,,4392,0.32%,1,Neutra,0,1,0,1,no critico,0,4,0,0,0,0,0,0
 espero,ESPERAR,,4250,0.31%,1,Negativa,1,0,0,-5,no critico,10,6,10,0,0,0,0,0
-app,APLICACIÓN,,4161,0.30%,1,Neutra,0,1,0,0,no critico,0,0,0,5,0,0,0,0
+app,APLICACION,,4161,0.30%,1,Neutra,0,1,0,0,no critico,0,0,0,5,0,0,0,0
 bien,BIEN,,4116,0.30%,1,Positiva,0,0,1,5,no critico,0,0,0,0,7,0,0,9
 queria,QUERER,,4100,0.30%,1,Neutra,0,1,0,0,no critico,0,0,0,0,0,0,0,0
 pague,PAGAR,,4045,0.29%,1,Neutra,0,1,0,0,no critico,7,9,7,0,0,0,0,0
@@ -57,7 +57,7 @@ entiendo,ENTENDER,,4035,0.29%,1,Positiva,0,0,1,5,no critico,0,0,0,0,0,0,0,0
 debo,DEBER,,4024,0.29%,1,Neutra,0,1,0,0,no critico,7,7,7,0,0,0,9,0
 deseo,DESEAR,,3947,0.28%,1,Neutra,0,1,0,0,no critico,0,0,0,0,0,0,0,0
 fecha,FECHA,,3937,0.28%,1,Neutra,0,1,0,0,no critico,0,7,0,0,0,0,0,0
-podria,PODRÍA,,3843,0.28%,1,Neutra,0,1,0,0,no critico,0,8,0,0,0,0,0,0
+podria,PODRIA,,3843,0.28%,1,Neutra,0,1,0,0,no critico,0,8,0,0,0,0,0,0
 reprogramacion,REPROGRAMAR,,3833,0.28%,1,,,,,,,,,,,,,,
 asi,ASI,,3811,0.27%,1,,,,,,,,,,,,,,
 momento,MOMENTO,,3798,0.27%,1,Neutra,0,1,0,0,no critico,0,0,0,0,0,0,0,0
@@ -79,7 +79,7 @@ medio,MEDIO,,3132,0.23%,1,Negativa,1,0,0,-5,no critico,9,0,0,0,0,0,0,0
 minimo,MINIMO,,3087,0.22%,1,,,,,,,,,,,,,,
 reclamo,RECLAMO,,3085,0.22%,1,Negativa,1,0,0,-5,critico,10,8,10,5,0,5,0,0
 credito,CREDITO,,3083,0.22%,1,Neutra,0,1,0,0,no critico,0,0,0,0,0,0,0,0
-srta,SEÑORITA,,3023,0.22%,1,,,,,,,,,,,,,,
+srta,SENIORITA,,3023,0.22%,1,,,,,,,,,,,,,,
 senorita,SENORITA,,2989,0.22%,1,Neutra,0,1,0,0,no critico,0,0,0,0,0,0,0,0
 cancelar,CANCELAR,,2973,0.21%,1,Negativa,1,0,0,-5,critico,9,0,8,7,0,9,0,0
 respuesta,RESPONDER,,2971,0.21%,1,Neutra,0,1,0,0,no critico,0,7,0,0,0,0,0,0
@@ -119,7 +119,7 @@ van,IR,,2066,0.15%,1,,,,,,,,,,,,,,
 internet,INTERNET,,2061,0.15%,1,Neutra,0,1,0,0,no critico,0,0,0,0,0,0,0,0
 decir,DECIR,,2045,0.15%,1,Neutra,0,1,0,0,no critico,0,6,0,0,0,0,0,0
 banco,BANCO,,2028,0.15%,1,Neutra,0,1,0,0,no critico,0,8,0,8,0,0,4,0
-poder,PODRÍA,,2021,0.15%,1,Neutra,0,1,0,0,no critico,0,8,0,0,0,0,0,0
+poder,PODRIA,,2021,0.15%,1,Neutra,0,1,0,0,no critico,0,8,0,0,0,0,0,0
 llego,LLEGAR,,1986,0.14%,1,Neutra,0,1,0,0,no critico,0,0,0,0,0,0,0,0
 consumos,CONSUMOS,,1981,0.14%,1,,,,,,,,,,,,,,
 prestamo,PRESTAMO,,1969,0.14%,1,,,,,,,,,,,,,,
@@ -146,7 +146,7 @@ igual,IGUAL,,1664,0.12%,1,Neutra,0,1,0,0,no critico,0,0,0,0,0,0,0,0
 alguna,ALGUN,,1625,0.12%,1,Neutra,0,1,0,0,no critico,0,0,0,0,0,0,0,0
 ningun,NINGUN,,1623,0.12%,1,Neutra,0,1,0,0,no critico,0,7,0,0,0,0,0,0
 adicional,ADICIONAL,,1612,0.12%,1,Neutra,0,1,0,1,no critico,0,0,0,0,0,0,0,0
-ahi,AHÍ,,1581,0.11%,1,,,,,,,,,,,,,,
+ahi,AHII,,1581,0.11%,1,,,,,,,,,,,,,,
 hecho,HACER,,1580,0.11%,1,Neutra,0,1,0,0,no critico,0,0,0,0,0,0,0,0
 realizado,REALIZAR,,1571,0.11%,1,Neutra,0,1,0,0,no critico,0,0,0,0,0,0,0,0
 siempre,SIEMPRE,,1545,0.11%,1,Neutra,0,1,0,0,no critico,0,0,0,0,0,0,0,0
@@ -170,7 +170,7 @@ acuerdo,ACUERDO,,1343,0.10%,1,Neutra,0,1,0,0,no critico,0,4,0,0,0,0,0,4
 embargo,EMBARGO,,1335,0.10%,1,Negativa,1,0,0,-5,no critico,8,0,9,8,0,7,0,0
 esperar,ESPERAR,,1328,0.10%,1,Negativa,1,0,0,-5,no critico,10,6,10,0,0,0,0,0
 nunca,NUNCA,,1324,0.10%,1,Negativa,1,0,0,-5,no critico,8,7,8,7,0,0,0,0
-promocion,PROMOCIÓN,,1324,0.10%,1,,,,,,,,,,,,,,
+promocion,PROMOCION,,1324,0.10%,1,,,,,,,,,,,,,,
 porfavor,POR FAVOR,,1321,0.10%,1,Neutra,0,1,0,0,no critico,0,8,0,0,0,0,0,0
 buenas,BUENO,,1295,0.09%,1,,,,,,,,,,,,,,
 tema,TEMA,,1294,0.09%,1,,,,,,,,,,,,,,
@@ -191,7 +191,7 @@ movistar,MARCA,,1233,0.09%,1,,,,,,,,,,,,,,
 mensaje,MENSAJE,,1227,0.09%,1,Neutra,0,1,0,0,no critico,0,8,0,0,0,0,0,0
 posible,POSIBLE,,1207,0.09%,1,Neutra,0,1,0,0,no critico,0,0,0,0,0,0,0,0
 comunicarme,COMUNICAR,,1207,0.09%,1,Neutra,0,1,0,0,no critico,0,8,0,0,0,0,8,0
-ano,AÑO,,1207,0.09%,1,,,,,,,,,,,,,,
+ano,ANIO,,1207,0.09%,1,,,,,,,,,,,,,,
 pasa,PASAR,,1205,0.09%,1,,,,,,,,,,,,,,
 llame,LLAMAR,,1203,0.09%,1,Neutra,0,1,0,0,no critico,0,7,0,0,0,0,0,7
 beneficio,BENEFICIO,,1202,0.09%,1,Neutra,0,1,0,0,no critico,0,0,0,0,8,0,6,8
@@ -208,9 +208,9 @@ realizo,REALIZAR,,1163,0.08%,1,,,,,,,,,,,,,,
 mensual,MENSUAL,,1148,0.08%,1,Neutra,0,1,0,0,no critico,0,0,0,0,0,0,0,0
 reclamos,RECLAMO,,175,0.01%,2,Negativa,1,0,0,-4,critico,8,8,8,8,0,5,0,0
 saga,MARCA,,1135,0.08%,1,,,,,,,,,,,,,,
-aqui,AQUÍ,,1131,0.08%,1,Neutra,0,1,0,0,no critico,0,0,0,0,0,0,0,0
+aqui,AQUII,,1131,0.08%,1,Neutra,0,1,0,0,no critico,0,0,0,0,0,0,0,0
 problemas,PROBLEMA,,1130,0.08%,1,Negativa,1,0,0,-5,critico,10,8,9,0,0,7,0,0
-situacion,SITUACIÓN,,1129,0.08%,1,,,,,,,,,,,,,,
+situacion,SITUACION,,1129,0.08%,1,,,,,,,,,,,,,,
 emergencia,EMERGENCIA,,1129,0.08%,1,Negativa,1,0,0,-5,no critico,8,9,0,10,0,8,0,0
 importe,IMPORTE,,1104,0.08%,1,,,,,,,,,,,,,,
 abono,ABONAR,,1104,0.08%,1,,,,,,,,,,,,,,
@@ -250,10 +250,10 @@ llamada,LLAMAR,,944,0.07%,1,Neutra,0,1,0,0,no critico,0,7,0,0,0,0,0,7
 uso,USAR,,943,0.07%,1,,,,,,,,,,,,,,
 pagarlo,PAGAR,,941,0.07%,1,,,,,,,,,,,,,,
 indica,INDICAR,,940,0.07%,1,Neutra,0,1,0,0,no critico,0,9,0,0,0,0,0,0
-operacion,OPERACIÓN,,938,0.07%,1,Negativa,1,0,0,-5,no critico,0,10,0,10,0,7,0,0
+operacion,OPERACION,,938,0.07%,1,Negativa,1,0,0,-5,no critico,0,10,0,10,0,7,0,0
 tarjetas,TARJETA,,931,0.07%,1,,,,,,,,,,,,,,
 aplicacion,APLICAR,,929,0.07%,1,,,,,,,,,,,,,,
-podia,PODRÍA,,925,0.07%,1,Neutra,0,1,0,0,no critico,0,0,0,0,0,0,0,0
+podia,PODRIA,,925,0.07%,1,Neutra,0,1,0,0,no critico,0,0,0,0,0,0,0,0
 efectivo,EFECTIVO,,920,0.07%,1,,,,,,,,,,,,,,
 vea,VER,,914,0.07%,1,,,,,,,,,,,,,,
 respecto,RESPECTO,,912,0.07%,1,Neutra,0,1,0,0,no critico,0,0,0,0,0,0,0,0
@@ -271,7 +271,7 @@ ultima,ULTIMO,,852,0.06%,1,,,,,,,,,,,,,,
 fraccionamiento,FRACCIONAR,,850,0.06%,1,,,,,,,,,,,,,,
 toda,TODO,,848,0.06%,1,Neutra,0,1,0,0,no critico,0,0,0,0,0,0,0,0
 amable,AMABLE,,841,0.06%,1,Positiva,0,0,1,5,no critico,0,0,0,0,9,0,0,10
-podrias,PODRÍA,,835,0.06%,1,Neutra,0,1,0,0,no critico,0,8,0,0,0,0,0,0
+podrias,PODRIA,,835,0.06%,1,Neutra,0,1,0,0,no critico,0,8,0,0,0,0,0,0
 luis,NOMBRE,,827,0.06%,1,,,,,,,,,,,,,,
 codigo,CODIGO,,821,0.06%,1,Neutra,0,1,0,0,no critico,0,0,0,0,0,0,0,0
 hicieron,HACER,,819,0.06%,1,Neutra,0,1,0,0,no critico,0,0,0,0,0,0,0,0
@@ -287,7 +287,7 @@ todavia,TODAVIA,,800,0.06%,1,,,,,,,,,,,,,,
 ripley,MARCA,,798,0.06%,1,,,,,,,,,,,,,,
 montos,MONTO,,797,0.06%,1,,,,,,,,,,,,,,
 envie,ENVIAR,,793,0.06%,1,Neutra,0,1,0,0,no critico,0,8,0,0,0,0,0,8
-campana,CAMPAÑA,,791,0.06%,1,,,,,,,,,,,,,,
+campana,CAMPANIA,,791,0.06%,1,,,,,,,,,,,,,,
 salio,SALIR,,790,0.06%,1,,,,,,,,,,,,,,
 exoneracion,EXONERAR,,785,0.06%,1,,,,,,,,,,,,,,
 debido,DEBER,,784,0.06%,1,,,,,,,,,,,,,,
@@ -340,7 +340,7 @@ tres,NUMERO,,675,0.05%,1,,,,,,,,,,,,,,
 cancele,CANCELAR,,671,0.05%,1,Negativa,1,0,0,-3,critico,10,0,8,7,0,7,0,0
 pagaria,PAGAR,,668,0.05%,1,,,,,,,,,,,,,,
 cobren,COBRAR,,668,0.05%,1,,,,,,,,,,,,,,
-podre,PODRÍA,,667,0.05%,1,,,,,,,,,,,,,,
+podre,PODRIA,,667,0.05%,1,,,,,,,,,,,,,,
 mejor,MEJOR,,664,0.05%,1,Neutra,0,1,0,0,no critico,0,0,0,0,0,0,0,0
 descuento,DESCUENTO,,660,0.05%,1,Negativa,1,0,0,-5,no critico,8,7,8,0,0,0,7,0
 dependiente,DEPENDIENTE,,657,0.05%,1,,,,,,,,,,,,,,
@@ -377,7 +377,7 @@ demora,DEMORAR,,603,0.04%,1,Negativa,1,0,0,-5,no critico,8,0,8,0,0,0,0,0
 supermercados,LUGAR,,601,0.04%,1,,,,,,,,,,,,,,
 cero,NUMERO,,600,0.04%,1,,,,,,,,,,,,,,
 solicitado,SOLICITAR,,596,0.04%,1,Neutra,0,1,0,0,no critico,0,0,0,0,0,0,0,0
-anual,AÑO,,596,0.04%,1,Neutra,0,1,0,0,no critico,0,0,0,0,0,0,0,0
+anual,ANIO,,596,0.04%,1,Neutra,0,1,0,0,no critico,0,0,0,0,0,0,0,0
 estaria,ESTAR,,595,0.04%,1,,,,,,,,,,,,,,
 detalle,DETALLAR,,592,0.04%,1,Neutra,0,1,0,0,no critico,0,9,0,0,0,0,0,0
 maria,NOMBRE,,591,0.04%,1,,,,,,,,,,,,,,
@@ -387,7 +387,7 @@ sigo,SEGUIR,,586,0.04%,1,,,,,,,,,,,,,,
 seguir,SEGUIR,,586,0.04%,1,Neutra,0,1,0,0,no critico,0,0,0,0,0,0,0,0
 joven,JOVEN,,584,0.04%,1,,,,,,,,,,,,,,
 contestan,CONTESTAR,,583,0.04%,1,,,,,,,,,,,,,,
-podrian,PODRÍA,,580,0.04%,1,Neutra,0,1,0,0,no critico,0,8,0,0,0,0,0,0
+podrian,PODRIA,,580,0.04%,1,Neutra,0,1,0,0,no critico,0,8,0,0,0,0,0,0
 hora,HORARIO,,579,0.04%,1,Neutra,0,1,0,0,no critico,0,7,0,0,0,0,0,0
 partir,PARTIR,,577,0.04%,1,,,,,,,,,,,,,,
 cargos,CARGO,,570,0.04%,1,Negativa,1,0,0,-2,no critico,0,0,0,0,0,0,0,0
@@ -432,11 +432,11 @@ cualquier,CUALQUIER,,510,0.04%,1,Neutra,0,1,0,0,no critico,0,0,0,0,0,0,0,0
 corto,CORTO,,507,0.04%,1,,,,,,,,,,,,,,
 pagare,PAGAR,,503,0.04%,1,,,,,,,,,,,,,,
 interbank,MARCA,,500,0.04%,1,,,,,,,,,,,,,,
-aca,AQUÍ,,500,0.04%,1,,,,,,,,,,,,,,
+aca,AQUII,,500,0.04%,1,,,,,,,,,,,,,,
 puedan,PODRIA,,498,0.04%,1,Neutra,0,1,0,0,no critico,0,8,0,0,0,0,0,0
 deudas,DEUDA,,497,0.04%,1,,,,,,,,,,,,,,
 indico,INDICAR,,496,0.04%,1,,,,,,,,,,,,,,
-senor,SEÑOR,,495,0.04%,1,Neutra,0,1,0,0,no critico,0,0,0,0,0,0,0,0
+senor,SENIOR,,495,0.04%,1,Neutra,0,1,0,0,no critico,0,0,0,0,0,0,0,0
 falta,FALTA,,494,0.04%,1,Neutra,0,1,0,0,no critico,0,0,0,0,0,0,0,0
 corresponde,CORRESPONDER,,494,0.04%,1,,,,,,,,,,,,,,
 cuales,CUAL,,494,0.04%,1,Neutra,0,1,0,0,no critico,0,0,0,0,0,0,0,0
@@ -449,7 +449,7 @@ afiliacion,AFILIAR,,483,0.03%,1,Neutra,0,1,0,1,no critico,0,3,0,0,7,0,0,7
 sabado,DIA,,482,0.03%,1,,,,,,,,,,,,,,
 menbresia,MEMBRESIA,,481,0.03%,1,,,,,,,,,,,,,,
 activa,ACTIVAR,,480,0.03%,1,,,,,,,,,,,,,,
-podido,PODRÍA,,473,0.03%,1,,,,,,,,,,,,,,
+podido,PODRIA,,473,0.03%,1,,,,,,,,,,,,,,
 supone,SUPONER,,472,0.03%,1,,,,,,,,,,,,,,
 procedimiento,PROCEDIMIENTO,,472,0.03%,1,Neutra,0,1,0,0,no critico,0,0,0,0,0,0,0,10
 visa,MARCA,,468,0.03%,1,,,,,,,,,,,,,,
@@ -474,7 +474,7 @@ minima,MINIMO,,447,0.03%,1,,,,,,,,,,,,,,
 presente,PRESENTE,,446,0.03%,1,Neutra,0,1,0,0,no critico,0,0,0,0,0,0,0,0
 justo,JUSTO,,446,0.03%,1,,,,,,,,,,,,,,
 linio,MARCA,,441,0.03%,1,,,,,,,,,,,,,,
-anos,AÑO,,438,0.03%,1,,,,,,,,,,,,,,
+anos,ANIO,,438,0.03%,1,,,,,,,,,,,,,,
 opciones,OPCION,,437,0.03%,1,Neutra,0,1,0,0,no critico,0,0,0,0,0,0,0,0
 encuentra,ENCONTRAR,,437,0.03%,1,Neutra,0,1,0,0,no critico,0,0,0,0,0,0,0,0
 sola,SOLEDAD,,435,0.03%,1,,,,,,,,,,,,,,
@@ -576,7 +576,7 @@ fraccionado,FRACCIONAR,,349,0.03%,1,,,,,,,,,,,,,,
 cambiar,CAMBIO,,349,0.03%,1,Neutra,0,1,0,0,no critico,0,0,7,0,0,0,0,0
 comento,COMENTAR,,349,0.03%,1,,,,,,,,,,,,,,
 vencida,VENCER,,347,0.02%,1,,,,,,,,,,,,,,
-alli,AHÍ,,347,0.02%,1,,,,,,,,,,,,,,
+alli,AHII,,347,0.02%,1,,,,,,,,,,,,,,
 sucede,SUCEDER,,346,0.02%,1,,,,,,,,,,,,,,
 eduardo,NOMBRE,,346,0.02%,1,,,,,,,,,,,,,,
 vino,VENIR,,345,0.02%,1,,,,,,,,,,,,,,
@@ -748,7 +748,7 @@ miguel,NOMBRE,,249,0.02%,1,,,,,,,,,,,,,,
 llegue,LLEGAR,,249,0.02%,1,,,,,,,,,,,,,,
 genere,GENERAR,,249,0.02%,1,,,,,,,,,,,,,,
 facilidad,FACILIDAD,,249,0.02%,1,,,,,,,,,,,,,,
-atras,ATRÁS,,249,0.02%,1,,,,,,,,,,,,,,
+atras,ATRAS,,249,0.02%,1,,,,,,,,,,,,,,
 consulte,CONSULTAR,,248,0.02%,1,,,,,,,,,,,,,,
 facilidades,FACILIDAD,,247,0.02%,1,,,,,,,,,,,,,,
 par,PAR,,246,0.02%,1,,,,,,,,,,,,,,
@@ -778,7 +778,7 @@ excelente,EXCELENTE,,239,0.02%,1,Positiva,0,0,1,3,no critico,0,0,0,0,0,0,0,0
 confirme,CONFIRMAR,,239,0.02%,1,,,,,,,,,,,,,,
 indecopi,RECLAMO,,159,0.01%,2,Negativa,1,0,0,-4,critico,8,8,8,8,0,5,0,0
 direccion,DIRECCION,,238,0.02%,1,Neutra,0,1,0,0,no critico,0,0,0,0,0,0,0,0
-podra,PODRÍA,,237,0.02%,1,,,,,,,,,,,,,,
+podra,PODRIA,,237,0.02%,1,,,,,,,,,,,,,,
 foto,FOTO,,237,0.02%,1,,,,,,,,,,,,,,
 disculpa,DISCULPAR,,237,0.02%,1,Positiva,0,0,1,3,no critico,5,8,5,0,5,0,0,5
 anteriores,ANTERIOR,,237,0.02%,1,,,,,,,,,,,,,,
@@ -923,14 +923,14 @@ anulen,ANULAR,,186,0.01%,2,Negativa,1,0,0,-3,critico,10,0,8,7,0,7,0,0
 programar,,,186,0.01%,,,,,,,,,,,,,,,
 screenshotpesoleradinersjpg,,,186,0.01%,,,,,,,,,,,,,,,
 genero,GENERAR,,185,0.01%,2,,,,,,,,,,,,,,
-companero,COMPAÑERO,,185,0.01%,2,,,,,,,,,,,,,,
+companero,COMPANIERO,,185,0.01%,2,,,,,,,,,,,,,,
 aplazar,APLAZAR,,185,0.01%,2,Neutra,0,1,0,-1,no critico,0,0,0,0,0,0,0,0
 respondieron,RESPONDER,,184,0.01%,2,,,,,,,,,,,,,,
 envien,ENVIAR,,184,0.01%,2,Neutra,0,1,0,0,no critico,0,8,0,0,0,0,0,8
 oeschle,,,184,0.01%,,,,,,,,,,,,,,,
 realizaron,,,184,0.01%,,,,,,,,,,,,,,,
 fraccione,FRACCIONAR,,183,0.01%,2,,,,,,,,,,,,,,
-exito,ÉXITO,,183,0.01%,2,Positiva,0,0,1,2,no critico,0,0,0,0,0,0,0,0
+exito,EXITO,,183,0.01%,2,Positiva,0,0,1,2,no critico,0,0,0,0,0,0,0,0
 horario,HORARIO,,183,0.01%,2,,,,,,,,,,,,,,
 deje,DEJAR,,183,0.01%,2,Neutra,0,1,0,0,no critico,0,0,0,0,0,0,0,0
 alguno,ALGUN,,183,0.01%,2,,,,,,,,,,,,,,
@@ -977,7 +977,7 @@ explico,,,175,0.01%,,,,,,,,,,,,,,,
 fisico,,,175,0.01%,,,,,,,,,,,,,,,
 jazmin,,,175,0.01%,,,,,,,,,,,,,,,
 netflix,,,175,0.01%,,,,,,,,,,,,,,,
-podemos,PODRÍA,,174,0.01%,2,,,,,,,,,,,,,,
+podemos,PODRIA,,174,0.01%,2,,,,,,,,,,,,,,
 diga,DECIR,,174,0.01%,2,,,,,,,,,,,,,,
 cancelada,,,174,0.01%,,,,,,,,,,,,,,,
 nose,,,174,0.01%,,,,,,,,,,,,,,,
@@ -1319,7 +1319,7 @@ indicas,,,112,0.01%,,,,,,,,,,,,,,,
 katherine,,,112,0.01%,,,,,,,,,,,,,,,
 merly,,,112,0.01%,,,,,,,,,,,,,,,
 pasarla,,,112,0.01%,,,,,,,,,,,,,,,
-reposicion,REPOSICIÓN,,111,0.01%,2,Neutra,0,1,0,0,no critico,0,0,0,0,0,0,0,0
+reposicion,REPOSICION,,111,0.01%,2,Neutra,0,1,0,0,no critico,0,0,0,0,0,0,0,0
 aparecer,,,111,0.01%,,,,,,,,,,,,,,,
 atiende,,,111,0.01%,,,,,,,,,,,,,,,
 mando,,,111,0.01%,,,,,,,,,,,,,,,
@@ -3228,7 +3228,7 @@ acercar,,,26,0.00%,,,,,,,,,,,,,,,
 actuales,,,26,0.00%,,,,,,,,,,,,,,,
 actualidad,,,26,0.00%,,,,,,,,,,,,,,,
 adios,,,26,0.00%,,,,,,,,,,,,,,,
-engano,ENGAÑO,,26,0.00%,2,Negativa,1,0,0,-3,critico,0,0,0,0,0,0,0,0
+engano,ENGANIAR,,26,0.00%,2,Negativa,1,0,0,-3,critico,0,0,0,0,0,0,0,0
 debite,DEBITO,,26,0.00%,2,,,,,,,,,,,,,,
 anulare,ANULAR,,26,0.00%,2,Negativa,1,0,0,-3,critico,10,0,8,7,0,7,0,0
 antemano,,,26,0.00%,,,,,,,,,,,,,,,
@@ -6944,7 +6944,7 @@ cierren,,,7,0.00%,,,,,,,,,,,,,,,
 clasic,,,7,0.00%,,,,,,,,,,,,,,,
 clonacion,,,7,0.00%,,,,,,,,,,,,,,,
 clud,,,7,0.00%,,,,,,,,,,,,,,,
-enganosa,ENGAÑO,,33,0.00%,2,Negativa,1,0,0,-3,critico,8,8,8,8,0,5,0,0
+enganosa,ENGANIAR,,33,0.00%,2,Negativa,1,0,0,-3,critico,8,8,8,8,0,5,0,0
 cobrandose,,,7,0.00%,,,,,,,,,,,,,,,
 coger,,,7,0.00%,,,,,,,,,,,,,,,
 colchon,,,7,0.00%,,,,,,,,,,,,,,,
@@ -7588,7 +7588,7 @@ cifuentes,,,6,0.00%,,,,,,,,,,,,,,,
 infornacion,INFORMAR,,6,0.00%,2,,,,,,,,,,,,,,
 delpago,PAGAR,,6,0.00%,2,,,,,,,,,,,,,,
 endeudar,DEUDA,,6,0.00%,2,,,,,,,,,,,,,,
-enganado,ENGAÑAR,,6,0.00%,2,Negativa,1,0,0,-2,critico,0,0,0,0,0,0,0,0
+enganado,ENGANIAR,,6,0.00%,2,Negativa,1,0,0,-2,critico,0,0,0,0,0,0,0,0
 cix,,,6,0.00%,,,,,,,,,,,,,,,
 desbloquea,BLOQUEO,,6,0.00%,2,,,,,,,,,,,,,,
 cancelarian,CANCELAR,,6,0.00%,2,Negativa,1,0,0,-3,critico,10,0,8,7,0,7,0,0
@@ -7604,9 +7604,9 @@ ahorrar,AHORRO,,6,0.00%,2,,,,,,,,,,,,,,
 adeuda,DEUDA,,6,0.00%,2,,,,,,,,,,,,,,
 abonara,ABONAR,,6,0.00%,2,,,,,,,,,,,,,,
 adeudaba,DEUDA,,6,0.00%,2,,,,,,,,,,,,,,
-enganaron,ENGAÑAR,,13,0.00%,2,Negativa,1,0,0,-3,critico,8,8,8,8,0,5,0,0
+enganaron,ENGANIAR,,13,0.00%,2,Negativa,1,0,0,-3,critico,8,8,8,8,0,5,0,0
 buenisimo,BUENISIMO,,6,0.00%,2,,,,,,,,,,,,,,
-enganan,ENGAÑAR,,8,0.00%,2,Negativa,1,0,0,-3,critico,8,8,8,8,0,5,0,0
+enganan,ENGANIAR,,8,0.00%,2,Negativa,1,0,0,-3,critico,8,8,8,8,0,5,0,0
 coge,,,6,0.00%,,,,,,,,,,,,,,,
 cogi,,,6,0.00%,,,,,,,,,,,,,,,
 colbox,,,6,0.00%,,,,,,,,,,,,,,,
@@ -8177,7 +8177,7 @@ trataba,,,6,0.00%,,,,,,,,,,,,,,,
 tremendo,,,6,0.00%,,,,,,,,,,,,,,,
 ubiera,,,6,0.00%,,,,,,,,,,,,,,,
 uff,,,6,0.00%,,,,,,,,,,,,,,,
-enganada,ENGAÑAR,,7,0.00%,2,Negativa,1,0,0,-3,critico,8,8,8,8,0,5,0,0
+enganada,ENGANIAR,,7,0.00%,2,Negativa,1,0,0,-3,critico,8,8,8,8,0,5,0,0
 ummmm,,,6,0.00%,,,,,,,,,,,,,,,
 unicef,,,6,0.00%,,,,,,,,,,,,,,,
 urbanizacion,,,6,0.00%,,,,,,,,,,,,,,,
@@ -8189,7 +8189,7 @@ usaron,,,6,0.00%,,,,,,,,,,,,,,,
 usaste,,,6,0.00%,,,,,,,,,,,,,,,
 uste,,,6,0.00%,,,,,,,,,,,,,,,
 ustedea,,,6,0.00%,,,,,,,,,,,,,,,
-enganando,ENGAÑAR,,7,0.00%,2,Negativa,1,0,0,-3,critico,8,8,8,8,0,5,0,0
+enganando,ENGANIAR,,7,0.00%,2,Negativa,1,0,0,-3,critico,8,8,8,8,0,5,0,0
 usual,,,6,0.00%,,,,,,,,,,,,,,,
 usuarios,,,6,0.00%,,,,,,,,,,,,,,,
 utilidad,,,6,0.00%,2,Positiva,0,0,1,2,no critico,0,0,0,0,0,0,0,0
@@ -8440,7 +8440,7 @@ comprados,,,5,0.00%,,,,,,,,,,,,,,,
 compramos,,,5,0.00%,,,,,,,,,,,,,,,
 comprara,,,5,0.00%,,,,,,,,,,,,,,,
 comprars,,,5,0.00%,,,,,,,,,,,,,,,
-enganar,ENGAÑAR,,5,0.00%,2,Negativa,1,0,0,-3,critico,0,0,0,0,0,0,0,0
+enganar,ENGANIAR,,5,0.00%,2,Negativa,1,0,0,-3,critico,0,0,0,0,0,0,0,0
 desafiliarla,DESAFILIAR,,5,0.00%,2,Negativa,1,0,0,-3,critico,10,0,8,7,0,7,0,0
 compres,,,5,0.00%,,,,,,,,,,,,,,,
 eps,EPS,,5,0.00%,2,Neutra,0,1,0,-1,no critico,0,0,0,0,0,0,0,0
@@ -8846,7 +8846,7 @@ landing,,,5,0.00%,,,,,,,,,,,,,,,
 laopcion,,,5,0.00%,,,,,,,,,,,,,,,
 lawgamers,,,5,0.00%,,,,,,,,,,,,,,,
 estafado,ESTAFA,,5,0.00%,2,Negativa,1,0,0,-3,critico,8,8,8,8,0,5,0,0
-enganos,ENGAÑO,,4,0.00%,2,Negativa,1,0,0,-3,critico,8,8,8,8,0,5,0,0
+enganos,ENGANIAR,,4,0.00%,2,Negativa,1,0,0,-3,critico,8,8,8,8,0,5,0,0
 lelgo,,,5,0.00%,,,,,,,,,,,,,,,
 estafando,ESTAFA,,4,0.00%,2,Negativa,1,0,0,-3,critico,8,8,8,8,0,5,0,0
 fastidiado,FASTIDIO,,4,0.00%,2,Negativa,1,0,0,-3,critico,8,8,8,8,0,5,0,0
@@ -9757,7 +9757,7 @@ cusl,,,4,0.00%,,,,,,,,,,,,,,,
 cusrentena,,,4,0.00%,,,,,,,,,,,,,,,
 custodio,,,4,0.00%,,,,,,,,,,,,,,,
 cutas,,,4,0.00%,,,,,,,,,,,,,,,
-enganaban,ENGAÑAR,,1,0.00%,2,Negativa,1,0,0,-3,critico,8,8,8,8,0,5,0,0
+enganaban,ENGANIAR,,1,0.00%,2,Negativa,1,0,0,-3,critico,8,8,8,8,0,5,0,0
 dea,,,4,0.00%,,,,,,,,,,,,,,,
 deapues,,,4,0.00%,,,,,,,,,,,,,,,
 debeo,,,4,0.00%,,,,,,,,,,,,,,,
@@ -9774,7 +9774,7 @@ dedo,,,4,0.00%,,,,,,,,,,,,,,,
 deducido,,,4,0.00%,,,,,,,,,,,,,,,
 deducir,,,4,0.00%,,,,,,,,,,,,,,,
 dei,,,4,0.00%,,,,,,,,,,,,,,,
-meengano,ENGAÑO,,1,0.00%,2,Negativa,1,0,0,-3,critico,8,8,8,8,0,5,0,0
+meengano,ENGANIAR,,1,0.00%,2,Negativa,1,0,0,-3,critico,8,8,8,8,0,5,0,0
 dejara,,,4,0.00%,,,,,,,,,,,,,,,
 dell,,,4,0.00%,,,,,,,,,,,,,,,
 demoraran,,,4,0.00%,,,,,,,,,,,,,,,
@@ -10059,7 +10059,7 @@ helem,,,4,0.00%,,,,,,,,,,,,,,,
 helen,,,4,0.00%,,,,,,,,,,,,,,,
 henrry,,,4,0.00%,,,,,,,,,,,,,,,
 herbert,,,4,0.00%,,,,,,,,,,,,,,,
-enganopara,ENGAÑO,,1,0.00%,2,Negativa,1,0,0,-3,critico,8,8,8,8,0,5,0,0
+enganopara,ENGANIAR,,1,0.00%,2,Negativa,1,0,0,-3,critico,8,8,8,8,0,5,0,0
 hinojosa,,,4,0.00%,,,,,,,,,,,,,,,
 hipertension,,,4,0.00%,,,,,,,,,,,,,,,
 hiraokacompe,,,4,0.00%,,,,,,,,,,,,,,,
@@ -10069,7 +10069,7 @@ hla,,,4,0.00%,,,,,,,,,,,,,,,
 hoce,,,4,0.00%,,,,,,,,,,,,,,,
 hospitalizado,,,4,0.00%,,,,,,,,,,,,,,,
 hou,,,4,0.00%,,,,,,,,,,,,,,,
-enganoza,ENGAÑO,,1,0.00%,2,Negativa,1,0,0,-3,critico,8,8,8,8,0,5,0,0
+enganoza,ENGANIAR,,1,0.00%,2,Negativa,1,0,0,-3,critico,8,8,8,8,0,5,0,0
 hsy,,,4,0.00%,,,,,,,,,,,,,,,
 huachaca,,,4,0.00%,,,,,,,,,,,,,,,
 huanca,,,4,0.00%,,,,,,,,,,,,,,,
@@ -10311,7 +10311,7 @@ mundaca,,,4,0.00%,,,,,,,,,,,,,,,
 murillo,,,4,0.00%,,,,,,,,,,,,,,,
 muxhas,,,4,0.00%,,,,,,,,,,,,,,,
 mza,,,4,0.00%,,,,,,,,,,,,,,,
-enganoy,ENGAÑO,,1,0.00%,2,Negativa,1,0,0,-3,critico,8,8,8,8,0,5,0,0
+enganoy,ENGANIAR,,1,0.00%,2,Negativa,1,0,0,-3,critico,8,8,8,8,0,5,0,0
 nads,,,4,0.00%,,,,,,,,,,,,,,,
 napan,,,4,0.00%,,,,,,,,,,,,,,,
 nasa,,,4,0.00%,,,,,,,,,,,,,,,
@@ -11480,7 +11480,7 @@ cuaderno,,,3,0.00%,,,,,,,,,,,,,,,
 cuadrado,,,3,0.00%,,,,,,,,,,,,,,,
 cuàl,,,3,0.00%,,,,,,,,,,,,,,,
 cuandl,,,3,0.00%,,,,,,,,,,,,,,,
-zoom,APLICACIÓN,,3,0.00%,2,,,,,,,,,,,,,,
+zoom,APLICACION,,3,0.00%,2,,,,,,,,,,,,,,
 cuaotas,,,3,0.00%,,,,,,,,,,,,,,,
 cuarente,,,3,0.00%,,,,,,,,,,,,,,,
 cuarenten,,,3,0.00%,,,,,,,,,,,,,,,
@@ -14969,7 +14969,7 @@ tarjetase,TARJETA,,2,0.00%,2,,,,,,,,,,,,,,
 diasnecesito,,,2,0.00%,,,,,,,,,,,,,,,
 solicititud,SOLICITAR,,2,0.00%,2,,,,,,,,,,,,,,
 tarjetea,TARJETA,,2,0.00%,2,,,,,,,,,,,,,,
-zzzz,SUEÑO,,2,0.00%,2,,,,,,,,,,,,,,
+zzzz,SUENIO,,2,0.00%,2,,,,,,,,,,,,,,
 diasrnrnel,,,2,0.00%,,,,,,,,,,,,,,,
 diass,,,2,0.00%,,,,,,,,,,,,,,,
 diassoy,,,2,0.00%,,,,,,,,,,,,,,,
@@ -15461,7 +15461,7 @@ desafiliazion,DESAFILIAR,,2,0.00%,2,Negativa,1,0,0,-3,critico,10,0,8,7,0,7,0,0
 ericka,,,2,0.00%,,,,,,,,,,,,,,,
 ericsson,,,2,0.00%,,,,,,,,,,,,,,,
 dudad,DUDAR,,2,0.00%,2,,,,,,,,,,,,,,
-enganoso,ENGAÑO,,2,0.00%,2,Negativa,1,0,0,-3,critico,0,0,0,0,0,0,0,0
+enganoso,ENGANIAR,,2,0.00%,2,Negativa,1,0,0,-3,critico,0,0,0,0,0,0,0,0
 depagorn,PAGAR,,2,0.00%,2,,,,,,,,,,,,,,
 erros,,,2,0.00%,,,,,,,,,,,,,,,
 ertor,,,2,0.00%,,,,,,,,,,,,,,,
