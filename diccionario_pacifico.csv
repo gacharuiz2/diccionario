@@ -2091,7 +2091,7 @@ emitir,emitir,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 establecimientos,establecimiento,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 estudiantes,estudiante,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 fabricacion,fabricar,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-FALSO,falso,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FALSO,FALSO,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 finalizar,finalizar,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 financiera,financiar,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 fotos,foto,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -3048,7 +3048,7 @@ ortodoncia,ortodoncia,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 min,otros,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 nav,otros,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 bco,otros,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-palabras,palabra,,0,Frecuencia,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+palabras,palabra,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 npara,para,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 parecio,parecer,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 psje,pasaje,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -4629,7 +4629,7 @@ explica,explicar,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 extension,extender,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 extraviado,extraviar,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 facilita,facilitar,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-falsa,falso,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+falsa,FALSO,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 famila,familia,,326,326,0,Neutra,0,1,0,0,no critico,0,8,0,0,0,0,0,0
 hijitas,familia,,326,326,0,Neutra,0,1,0,0,no critico,0,8,0,0,0,0,0,0
 mami,familia,,326,326,0,Neutra,0,1,0,0,no critico,0,8,0,0,0,0,0,0
@@ -5707,7 +5707,7 @@ circus,otros,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 cmo,otros,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 commscope,otros,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 pagarle,pagar,,2559,0,1,Neutra,0,1,0,0,no critico,7,9,7,0,0,0,0,0
-palabra,palabra,,0,Frecuencia,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+palabra,palabra,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 papiloma,papiloma,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 parachoques,parachoque,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 pare,parar,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -8298,7 +8298,7 @@ facturan,facturar,,322,0,0,Neutra,0,1,0,0,no critico,0,9,0,8,0,0,0,0
 facturaron,facturar,,322,0,0,Neutra,0,1,0,0,no critico,0,9,0,8,0,0,0,0
 fallo,fallar,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 falleciera,morir,,834,0,1,Negativa,1,0,0,-3,critico,0,0,0,0,0,4,0,0
-falsas,falso,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+falsas,FALSO,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 faltantes,faltar,,143,0,0,Neutra,0,1,0,0,no critico,0,0,0,0,0,0,0,0
 falto,faltar,,143,0,0,Neutra,0,1,0,0,no critico,0,0,0,0,0,0,0,0
 abuela,familia,,326,326,0,Neutra,0,1,0,0,no critico,0,8,0,0,0,0,0,0
@@ -14357,8 +14357,8 @@ fallecioi,morir,,834,0,1,Negativa,1,0,0,-3,critico,0,0,0,0,0,4,0,0
 fallesca,morir,,834,0,1,Negativa,1,0,0,-3,critico,0,0,0,0,0,4,0,0
 fallevio,morir,,834,0,1,Negativa,1,0,0,-3,critico,0,0,0,0,0,4,0,0
 fallezca,morir,,834,0,1,Negativa,1,0,0,-3,critico,0,0,0,0,0,4,0,0
-falsificado,falso,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-falsificar,falso,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+falsificado,FALSO,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+falsificar,FALSO,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 oseafalta,falta,,0,143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 faltaban,faltar,,143,0,0,Neutra,0,1,0,0,no critico,0,0,0,0,0,0,0,0
 faltabdo,faltar,,143,0,0,Neutra,0,1,0,0,no critico,0,0,0,0,0,0,0,0
@@ -19821,7 +19821,7 @@ pgna,pagina,,639,639,0,Neutra,0,1,0,0,no critico,0,0,0,0,0,0,0,0
 pgs,pagina,,639,639,0,Neutra,0,1,0,0,no critico,0,0,0,0,0,0,0,0
 psgina,pagina,,639,639,0,Neutra,0,1,0,0,no critico,0,0,0,0,0,0,0,0
 apagina,pagina,,639,639,0,Neutra,0,1,0,0,no critico,0,0,0,0,0,0,0,0
-paaba,palabra,,0,Frecuencia,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+paaba,palabra,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 panaderia,panaderia,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 panel,panel,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 panificadora,panificadora,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
