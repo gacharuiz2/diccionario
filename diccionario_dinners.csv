@@ -77,8 +77,8 @@ algun,algun,0,1934,,1,Neutra,0,1,0,1,no critico,0,0,0,0,0,0,2,0
 alguna,algun,0,1625,,1,Neutra,0,1,0,1,no critico,0,2,0,0,0,0,0,0
 algun,algun,0,1934,,1,Neutra,0,1,0,1,no critico,0,0,0,0,0,0,2,0
 alguna,algun,0,1625,,1,Neutra,0,1,0,1,no critico,0,2,0,0,0,0,0,0
-alli,allí,0,347,,1,Neutra,0,1,0,1,no critico,0,0,0,0,0,0,4,0
-alli,allí,0,347,,1,Neutra,0,1,0,1,no critico,0,0,0,0,0,0,4,0
+alli,alli,0,347,,1,Neutra,0,1,0,1,no critico,0,0,0,0,0,0,4,0
+alli,alli,0,347,,1,Neutra,0,1,0,1,no critico,0,0,0,0,0,0,4,0
 amable,amabilidad,0,841,,1,Positiva,0,0,1,2,no critico,0,0,0,0,2,0,0,0
 amable,amabilidad,0,841,,1,Positiva,0,0,1,2,no critico,0,0,0,0,2,0,0,0
 ambos,ambos,0,246,,1,Neutra,0,1,0,1,no critico,0,0,0,0,0,0,4,0
@@ -295,8 +295,8 @@ colocar,colocar,0,254,,1,Neutra,0,1,0,1,no critico,0,0,0,0,0,0,3,0
 colocar,colocar,0,254,,1,Neutra,0,1,0,1,no critico,0,0,0,0,0,0,3,0
 comento,comentar,0,349,,1,Neutra,0,1,0,1,no critico,0,0,0,0,4,0,0,0
 comento,comentar,0,349,,1,Neutra,0,1,0,1,no critico,0,0,0,0,4,0,0,0
-comision,comisión,1,243,,1,Negativa,1,0,0,-2,critico,0,0,4,0,0,0,0,0
-comision,comisión,1,243,,1,Negativa,1,0,0,-2,critico,0,0,4,0,0,0,0,0
+comision,comision,1,243,,1,Negativa,1,0,0,-2,critico,0,0,4,0,0,0,0,0
+comision,comision,1,243,,1,Negativa,1,0,0,-2,critico,0,0,4,0,0,0,0,0
 completo,completar,0,350,,1,Neutra,0,1,0,1,no critico,0,0,0,0,0,0,0,6
 completo,completar,0,350,,1,Neutra,0,1,0,1,no critico,0,0,0,0,0,0,0,6
 compra,comprar,1,10787,,1,Neutra,0,1,0,1,critico,0,0,0,0,3,0,0,0
@@ -327,8 +327,8 @@ comunicar,comunicar,0,622,,1,Neutra,0,1,0,1,no critico,0,0,0,0,3,0,0,0
 comunicado,comunicar,0,193,,1,Neutra,0,1,0,1,no critico,0,0,0,0,0,0,3,0
 concepto,concepto,0,242,,1,Neutra,0,1,0,1,no critico,0,0,0,0,0,0,4,0
 concepto,concepto,0,242,,1,Neutra,0,1,0,1,no critico,0,0,0,0,0,0,4,0
-condiciones,condición,0,357,,1,Neutra,0,1,0,1,no critico,0,0,0,0,0,0,4,0
-condiciones,condición,0,357,,1,Neutra,0,1,0,1,no critico,0,0,0,0,0,0,4,0
+condiciones,condicion,0,357,,1,Neutra,0,1,0,1,no critico,0,0,0,0,0,0,4,0
+condiciones,condicion,0,357,,1,Neutra,0,1,0,1,no critico,0,0,0,0,0,0,4,0
 confirmar,confirmar,0,1259,,1,Neutra,0,1,0,1,no critico,0,0,0,0,0,0,0,3
 confirmacion,confirmar,0,720,,1,Neutra,0,1,0,1,no critico,0,0,0,0,2,0,0,0
 confirma,confirmar,0,322,,1,Positiva,0,0,1,2,no critico,0,0,0,0,0,0,0,5
