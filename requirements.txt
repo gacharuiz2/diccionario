@@ -3,7 +3,7 @@ pandas==0.25.1
 json5==0.8.5
 Pillow==7.1.2
 firebase==3.0.1
-python-jwt==3.2.6
+python-jwt==3.3.4
 gcloud==0.18.3
 sseclient==0.0.26
 pycrypto==2.6.1
